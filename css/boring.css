@@ -1,0 +1,9 @@
+h2.intro {
+  font-style: italic;
+  color: purple;
+}
+
+p.intro {
+  font-weight: bolder;
+  width: 75%;
+}
