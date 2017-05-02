@@ -1,9 +1,11 @@
-h2.intro {
+.intro {
   font-style: italic;
   color: purple;
-}
-
-p.intro {
   font-weight: bolder;
   width: 75%;
+}
+
+.aminal {
+  font-style: italic;
+  font-size: 36px;
 }
